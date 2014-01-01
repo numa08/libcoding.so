@@ -1,0 +1,45 @@
+---
+layout: post
+title: "#libcodingso at 1st"
+date: 2014-01-01 20:39:50 +0900
+comments: true
+categories: 
+---
+
+{% img http://instacod.es/file/65765 %}
+
+やあ、諸君、待たせたな。第1回Live Coding de Nightの告知をようやく行える。
+
+### リスナー募集
+
+悪いがちょっとまってくれ。後日、[zusaar](http://www.zusaar.com/)を使って募集を行う。
+
+### 日時/場所
+
+ - 2014/01/31(Fri)
+ - 20:00 - 22:00
+ - [21cafe<ニイイチカフェ>](http://www.ni-ichicafe.com/)
+     - [〒150-0043　東京都渋谷区道玄坂1-14-6　渋谷ヒューマックスビル3F](https://maps.google.com/maps?q=%E3%80%92150-0043%E3%80%80%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E9%81%93%E7%8E%84%E5%9D%821-14-6%E3%80%80%E6%B8%8B%E8%B0%B7%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%83%93%E3%83%AB3F&hl=ja&ie=UTF8&sll=37.0625,-95.677068&sspn=43.307813,78.662109&hnear=%E6%97%A5%E6%9C%AC,+%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E9%81%93%E7%8E%84%E5%9D%82%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%94%E2%88%92%EF%BC%96+%E4%BD%8F%E5%8F%8B%E4%B8%8D%E5%8B%95%E7%94%A3%E6%B8%8B%E8%B0%B7%E3%83%92%E3%83%A5%E3%83%BC%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E3%83%93%E3%83%AB&t=m&z=16)
+
+
+### パフォーマンス内容
+
+今回参加してくれるナイスなメンバーを紹介する。
+
+
+#### programmer
+
+ - [@bilyakudanさん](https://twitter.com/bilyakudan)
+ - [@_a__sanさん](https://twitter.com/_a__san)
+ - [@mironalさん](https://twitter.com/mironal) with his friend
+ - [@tmytさん](https://twitter.com/tmyt)
+ - [@psideさん](https://twitter.com/pside)
+ - [@shurabaPさん](https://twitter.com/shurabaP)
+ - [@penguin2716さん](https://twitter.com/penguin2716)
+
+#### dj
+
+ - [@mametora](https://twitter.com/mametora)
+
+
+内容に変更があり次第、このページを更新する。それじゃあ、カレンダーのチェックを頼む。
