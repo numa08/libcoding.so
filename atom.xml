@@ -4,7 +4,7 @@
   <title><![CDATA[Live Coding de Night]]></title>
   <link href="http://libcoding.so/libcoding/atom.xml" rel="self"/>
   <link href="http://libcoding.so/libcoding/"/>
-  <updated>2014-01-18T01:23:21+09:00</updated>
+  <updated>2014-01-18T01:26:28+09:00</updated>
   <id>http://libcoding.so/libcoding/</id>
   <author>
     <name><![CDATA[numa08]]></name>
@@ -47,10 +47,10 @@
 <h4>programmer</h4>
 
 <ul>
-<li><a href="https://twitter.com/bilyakudan">@bilyakudanさん</a></li>
-<li>タイトル: ライブコーディングで作るライブチャット
+<li><a href="https://twitter.com/bilyakudan">@bilyakudanさん</a>
 
 <ul>
+<li>タイトル: ライブコーディングで作るライブチャット</li>
 <li>言語とか: JavaScript/HTML/Sinatra/peer.js/etc&hellip;</li>
 <li>内容: ライブコーディングでよくあるライブチャットを作ります(気まぐれで変わるかもしれません)</li>
 <li>時間: 15~20分くらい？(計ってない)</li>
