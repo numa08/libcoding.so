@@ -29,15 +29,40 @@ categories:
 
 #### programmer
 
- - [@bilyakudanさん](https://twitter.com/bilyakudan)
- - [@_a__sanさん](https://twitter.com/_a__san)
- - [@mironalさん](https://twitter.com/mironal) with his friend
- - [@tmytさん](https://twitter.com/tmyt)
- - [@psideさん](https://twitter.com/pside)
- - [@shurabaPさん](https://twitter.com/shurabaP)
- - [@penguin2716さん](https://twitter.com/penguin2716)
+- [@bilyakudanさん](https://twitter.com/bilyakudan)
+  - タイトル: ライブコーディングで作るライブチャット
+  - 言語とか: JavaScript/HTML/Sinatra/peer.js/etc...
+  - 内容: ライブコーディングでよくあるライブチャットを作ります(気まぐれで変わるかもしれません)
+  - 時間: 15~20分くらい？(計ってない)
+  - 備考: 論文提出の関係上会場に行かずに失踪するかもしれませんすみません
+- [@_a__sanさん](https://twitter.com/_a__san)
+  - タイトル: Fish Simulation in Unity
+  - 言語とか: Unity/C#
+  - 内容: 魚の動きをシミュレーションするライブラリを持参するので、それをUnityに組み込んで動かしてみます
+  - 時間: 20分以上(頑張って時間内に収めます...)
+  - 備考: 今回は(たぶん)2Dでやります
+- [@mironalさん + 3人 : チーム変な人達](https://twitter.com/mironal)
+  - タイトル：目と耳と肌で感じる開発体制
+  - 言語/フレームワーク：Objective-C
+  - 内容：[コベリン](http://covelline.com/) の開発スタイルで黙々と開発します. MC付き.
+  - 時間：20分くらい
+- [@tmytさん](https://twitter.com/tmyt)
+- [@psideさん](https://twitter.com/pside)
 
-#### dj
+- [@shurabaPさん](https://twitter.com/shurabaP)
+  - タイトル：WORLD と UTAU 音源で始める歌声合成
+  - 言語/フレームワーク：C++ / Qt
+  - 内容：テキストファイルから歌声合成みたいな何かを作りたい
+  - 時間：15分くらいにしたい(時間計ってやばそうならネタ変えます)
+
+- [@penguin2716さん](https://twitter.com/penguin2716)
+  - タイトル：作れる！mikutterプラグイン
+  - 言語/フレームワーク：Ruby，mikutter DSL
+  - 内容：mikutterとEmacsを使って，簡単な解説を入れながらRubyでプラグインを作ります．
+  - 時間：15分くらい？
+
+
+#### Super DJ
 
  - [@mametora](https://twitter.com/mametora)
 
