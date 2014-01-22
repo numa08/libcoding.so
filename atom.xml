@@ -4,7 +4,7 @@
   <title><![CDATA[Live Coding de Night]]></title>
   <link href="http://libcoding.so/libcoding/atom.xml" rel="self"/>
   <link href="http://libcoding.so/libcoding/"/>
-  <updated>2014-01-19T21:37:07+09:00</updated>
+  <updated>2014-01-22T23:54:41+09:00</updated>
   <id>http://libcoding.so/libcoding/</id>
   <author>
     <name><![CDATA[numa08]]></name>
@@ -77,9 +77,17 @@
 </ul>
 </li>
 <li><a href="https://twitter.com/tmyt">@tmytさん</a></li>
-<li><a href="https://twitter.com/pside">@psideさん</a></li>
-<li><a href="https://twitter.com/shurabaP">@shurabaPさん</a></li>
-<li><a href="https://twitter.com/penguin2716">@penguin2716さん</a>
+<li><p><a href="https://twitter.com/pside">@psideさん</a></p></li>
+<li><p><a href="https://twitter.com/shurabaP">@shurabaPさん</a></p>
+
+<ul>
+<li>タイトル：WORLD と UTAU 音源で始める歌声合成</li>
+<li>言語/フレームワーク：C++ / Qt</li>
+<li>内容：テキストファイルから歌声合成みたいな何かを作りたい</li>
+<li>時間：15分くらいにしたい(時間計ってやばそうならネタ変えます)</li>
+</ul>
+</li>
+<li><p><a href="https://twitter.com/penguin2716">@penguin2716さん</a></p>
 
 <ul>
 <li>タイトル：作れる！mikutterプラグイン</li>
