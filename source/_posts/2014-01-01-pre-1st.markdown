@@ -50,6 +50,11 @@ categories:
   - 時間：20分くらい
 
 - [@tmytさん](https://twitter.com/tmyt)
+ - タイトル：JavascriptとAzureで遊ぶ
+ - 言語/フレームワーク：C#/Azure/Javascript
+ - 内容：Azure+JavascriptとC#を連携させて遊びます
+ - 時間：20分もあれば余るはず…（これからはかります）
+
 - [@psideさん](https://twitter.com/pside)
   - タイトル：AngularJSで誰得(?)APIと戯れる
   - 言語/フレームワーク：AngularJS(HTML,JavaScript)
