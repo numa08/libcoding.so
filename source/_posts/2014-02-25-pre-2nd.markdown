@@ -6,9 +6,11 @@ comments: true
 categories: 
 ---
 
-{% img http://instacod.es/file/65765 %}
+<iframe src="https://onedrive.live.com/embed?cid=DB936D0EE3E893FF&resid=DB936D0EE3E893FF%214772&authkey=AB2NMmB8elLeahk" width="319" height="179" frameborder="0" scrolling="no"></iframe>
 
-やあ、諸君、待たせたな。第1回Live Coding de Nightの告知をようやく行える。
+Hello World,僕達はいつだってセカイに生まれ、作り、動かしてきた。Coding、それが僕達が生きる証だから。
+
+Live Coding de Night、そんな僕達の息吹を目で耳で、そして肌で感じるプログラマによるエンタテイメント。
 
 ### リスナー募集
 
