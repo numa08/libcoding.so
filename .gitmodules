@@ -1,0 +1,3 @@
+[submodule ".themes/object"]
+	path = .themes/object
+	url = https://github.com/gluttony/object-octopress-theme.git

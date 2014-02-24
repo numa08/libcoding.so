@@ -1,0 +1,7 @@
+---
+layout: post
+title: "pre-2nd"
+date: 2014-02-25 00:15:01 +0900
+comments: true
+categories: 
+---
