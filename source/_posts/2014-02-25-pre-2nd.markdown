@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#libcodingso at 2nd"
+title: "#libcodingso at 2nd infinite"
 date: 2014-02-25 00:15:01 +0900
 comments: true
 categories: 
@@ -14,7 +14,7 @@ Live Coding de Night、そんな僕達の息吹を目で耳で、そして肌で
 
 ### リスナー募集
 
-絶賛募集中だ。[Zussaar](http://www.zusaar.com/event/2947012)から頼む。
+絶賛募集中だ。[Zussaar](http://www.zusaar.com/event/4137003)から頼む。
 
 ### 日時/場所
 
