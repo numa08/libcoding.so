@@ -1,63 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://libcoding.so/libcoding/blog/2014/01/01/pre-1st/</loc>
+        <loc>http://libcoding.so//blog/2014/01/01/pre-1st/</loc>
         <lastmod>2014-02-25T00:12:39+09:00</lastmod>
     </url>
     <url>
-        <loc>http://libcoding.so/libcoding/blog/2014/02/25/pre-2nd/</loc>
+        <loc>http://libcoding.so//blog/2014/02/25/pre-2nd/</loc>
         <lastmod>2014-03-01T01:58:02+09:00</lastmod>
     </url>
     <url>
-        <loc>http://libcoding.so/libcoding/404.html</loc>
+        <loc>http://libcoding.so//404.html</loc>
         <lastmod>2014-02-25T00:12:39+09:00</lastmod>
     </url>
     <url>
-        <loc>http://libcoding.so/libcoding/assets/bootstrap/about.html</loc>
+        <loc>http://libcoding.so//assets/bootstrap/about.html</loc>
         <lastmod>2014-02-25T00:12:39+09:00</lastmod>
     </url>
     <url>
-        <loc>http://libcoding.so/libcoding/assets/bootstrap/components.html</loc>
+        <loc>http://libcoding.so//assets/bootstrap/components.html</loc>
         <lastmod>2014-02-25T00:12:39+09:00</lastmod>
     </url>
     <url>
-        <loc>http://libcoding.so/libcoding/assets/bootstrap/css.html</loc>
+        <loc>http://libcoding.so//assets/bootstrap/css.html</loc>
         <lastmod>2014-02-25T00:12:39+09:00</lastmod>
     </url>
     <url>
-        <loc>http://libcoding.so/libcoding/assets/bootstrap/customize.html</loc>
+        <loc>http://libcoding.so//assets/bootstrap/customize.html</loc>
         <lastmod>2014-02-25T00:12:39+09:00</lastmod>
     </url>
     <url>
-        <loc>http://libcoding.so/libcoding/assets/bootstrap/getting-started.html</loc>
+        <loc>http://libcoding.so//assets/bootstrap/getting-started.html</loc>
         <lastmod>2014-02-25T00:12:39+09:00</lastmod>
     </url>
     <url>
-        <loc>http://libcoding.so/libcoding/assets/bootstrap/</loc>
+        <loc>http://libcoding.so//assets/bootstrap/</loc>
         <lastmod>2014-03-01T01:58:02+09:00</lastmod>
     </url>
     <url>
-        <loc>http://libcoding.so/libcoding/assets/bootstrap/javascript.html</loc>
+        <loc>http://libcoding.so//assets/bootstrap/javascript.html</loc>
         <lastmod>2014-02-25T00:12:39+09:00</lastmod>
     </url>
     <url>
-        <loc>http://libcoding.so/libcoding/blog/archives/</loc>
+        <loc>http://libcoding.so//blog/archives/</loc>
         <lastmod>2014-03-01T01:58:02+09:00</lastmod>
     </url>
     <url>
-        <loc>http://libcoding.so/libcoding/humans.txt</loc>
+        <loc>http://libcoding.so//humans.txt</loc>
         <lastmod>2014-01-19T21:37:01+09:00</lastmod>
     </url>
     <url>
-        <loc>http://libcoding.so/libcoding/</loc>
+        <loc>http://libcoding.so//</loc>
         <lastmod>2014-03-01T01:58:02+09:00</lastmod>
     </url>
     <url>
-        <loc>http://libcoding.so/libcoding/robots.txt</loc>
+        <loc>http://libcoding.so//robots.txt</loc>
         <lastmod>2014-01-19T21:37:01+09:00</lastmod>
     </url>
     <url>
-        <loc>http://libcoding.so/libcoding/what-libcoding/</loc>
+        <loc>http://libcoding.so//what-libcoding/</loc>
         <lastmod>2014-02-25T00:12:39+09:00</lastmod>
     </url>
 </urlset>
