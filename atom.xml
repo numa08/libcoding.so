@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Live Coding de Night]]></title>
-  <link href="http://libcoding.so/atom.xml" rel="self"/>
-  <link href="http://libcoding.so/"/>
-  <updated>2014-03-01T01:51:15+09:00</updated>
-  <id>http://libcoding.so/</id>
+  <link href="http://libcoding.so/libcoding/atom.xml" rel="self"/>
+  <link href="http://libcoding.so/libcoding/"/>
+  <updated>2014-03-01T02:02:30+09:00</updated>
+  <id>http://libcoding.so/libcoding/</id>
   <author>
     <name><![CDATA[numa08]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[#libcodingso at 2nd infinite]]></title>
-    <link href="http://libcoding.so/blog/2014/02/25/pre-2nd/"/>
+    <link href="http://libcoding.so/libcoding/blog/2014/02/25/pre-2nd/"/>
     <updated>2014-02-25T00:15:01+09:00</updated>
-    <id>http://libcoding.so/blog/2014/02/25/pre-2nd</id>
+    <id>http://libcoding.so/libcoding/blog/2014/02/25/pre-2nd</id>
     <content type="html"><![CDATA[<iframe src="https://onedrive.live.com/embed?cid=DB936D0EE3E893FF&resid=DB936D0EE3E893FF%214772&authkey=AB2NMmB8elLeahk" width="319" height="179" frameborder="0" scrolling="no"></iframe>
 
 
@@ -66,6 +66,7 @@
 
 <ul>
 <li><a href="https://twitter.com/mametora">@mametora</a></li>
+<li><a href="https://twitter.com/ponica">@ponica</a></li>
 </ul>
 
 
@@ -75,9 +76,9 @@
   
   <entry>
     <title type="html"><![CDATA[#libcodingso at 1st]]></title>
-    <link href="http://libcoding.so/blog/2014/01/01/pre-1st/"/>
+    <link href="http://libcoding.so/libcoding/blog/2014/01/01/pre-1st/"/>
     <updated>2014-01-01T20:39:50+09:00</updated>
-    <id>http://libcoding.so/blog/2014/01/01/pre-1st</id>
+    <id>http://libcoding.so/libcoding/blog/2014/01/01/pre-1st</id>
     <content type="html"><![CDATA[<p><img src="http://instacod.es/file/65765"></p>
 
 <p>やあ、諸君、待たせたな。第1回Live Coding de Nightの告知をようやく行える。</p>
