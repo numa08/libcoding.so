@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://libcoding.so//sitemap.xml 
+Sitemap: http://libcoding.so/sitemap.xml 
