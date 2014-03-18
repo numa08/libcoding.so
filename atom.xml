@@ -4,7 +4,7 @@
   <title><![CDATA[Live Coding de Night]]></title>
   <link href="http://libcoding.so/atom.xml" rel="self"/>
   <link href="http://libcoding.so/"/>
-  <updated>2014-03-17T22:49:30+09:00</updated>
+  <updated>2014-03-18T22:15:56+09:00</updated>
   <id>http://libcoding.so/</id>
   <author>
     <name><![CDATA[numa08]]></name>
@@ -50,12 +50,20 @@
 <h4>programmer</h4>
 
 <ul>
-<li><a href="https://twitter.com/noir_neo">ねお</a>
+<li><p><a href="https://twitter.com/noir_neo">ねお</a></p>
 
 <ul>
 <li>Androidにミクさんを召喚してセクハラしたい！</li>
 <li>Java/Android</li>
 <li>ライブラリを使ってAndroidでミクさんを表示して、ナニかしたいと思います。</li>
+</ul>
+</li>
+<li><p><a href="https://twitter.com/mironal">mironal</a></p>
+
+<ul>
+<li>arduinode を使ってお手軽ハードウェア制御</li>
+<li>Arduino + node.js + WebSocket</li>
+<li>自分の作ったライブラリ(arduinode)で、ナニかしたいと思います <a href="https://github.com/mironal/arduinode">Repository</a></li>
 </ul>
 </li>
 </ul>
