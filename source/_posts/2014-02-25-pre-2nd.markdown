@@ -3,7 +3,7 @@ layout: post
 title: "#libcodingso at 2nd infinite"
 date: 2014-02-25 00:15:01 +0900
 comments: true
-categories: 
+categories:
 ---
 
 <iframe src="https://onedrive.live.com/embed?cid=DB936D0EE3E893FF&resid=DB936D0EE3E893FF%214772&authkey=AB2NMmB8elLeahk" width="319" height="179" frameborder="0" scrolling="no"></iframe>
@@ -36,6 +36,11 @@ Live Coding de Night、そんな僕達の息吹を目で耳で、そして肌で
      - Java/Android
      - ライブラリを使ってAndroidでミクさんを表示して、ナニかしたいと思います。
 
+ - [mironal](https://twitter.com/mironal)
+     - arduinode を使ってお手軽ハードウェア制御
+     - Arduino + node.js + WebSocket
+     - 自分の作ったライブラリ(arduinode)で、ナニかしたいと思います [Repository](https://github.com/mironal/arduinode)
+
 <!-- ここにパフォーマンスの情報を書いていってください。
 
 フォーマットは
@@ -54,3 +59,4 @@ Live Coding de Night、そんな僕達の息吹を目で耳で、そして肌で
 
 
 内容に変更があり次第、このページを更新する。それじゃあ、カレンダーのチェックを頼む。
+
