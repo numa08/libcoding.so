@@ -41,6 +41,11 @@ Live Coding de Night、そんな僕達の息吹を目で耳で、そして肌で
      - Arduino + node.js + WebSocket
      - 自分の作ったライブラリ(arduinode)で、ナニかしたいと思います [Repository](https://github.com/mironal/arduinode)
 
+ - [けいま](https://twitter.com/pside)
+     - WebAudio APIと戯れる
+     - HTML5 (JavaScript)
+     - せっかくなのでDJさんとイチャイチャしてみたかったんだ
+
 <!-- ここにパフォーマンスの情報を書いていってください。
 
 フォーマットは
