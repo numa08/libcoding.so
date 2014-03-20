@@ -4,7 +4,7 @@
   <title><![CDATA[Live Coding de Night]]></title>
   <link href="http://libcoding.so/atom.xml" rel="self"/>
   <link href="http://libcoding.so/"/>
-  <updated>2014-03-18T22:15:56+09:00</updated>
+  <updated>2014-03-21T07:25:08+09:00</updated>
   <id>http://libcoding.so/</id>
   <author>
     <name><![CDATA[numa08]]></name>
@@ -64,6 +64,14 @@
 <li>arduinode を使ってお手軽ハードウェア制御</li>
 <li>Arduino + node.js + WebSocket</li>
 <li>自分の作ったライブラリ(arduinode)で、ナニかしたいと思います <a href="https://github.com/mironal/arduinode">Repository</a></li>
+</ul>
+</li>
+<li><p><a href="https://twitter.com/pside">けいま</a></p>
+
+<ul>
+<li>WebAudio APIと戯れる</li>
+<li>HTML5 (JavaScript)</li>
+<li>せっかくなのでDJさんとイチャイチャしてみたかったんだ</li>
 </ul>
 </li>
 </ul>
