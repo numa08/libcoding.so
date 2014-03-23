@@ -4,7 +4,7 @@
   <title><![CDATA[Live Coding de Night]]></title>
   <link href="http://libcoding.so/atom.xml" rel="self"/>
   <link href="http://libcoding.so/"/>
-  <updated>2014-03-21T07:25:08+09:00</updated>
+  <updated>2014-03-24T00:23:36+09:00</updated>
   <id>http://libcoding.so/</id>
   <author>
     <name><![CDATA[numa08]]></name>
@@ -72,6 +72,14 @@
 <li>WebAudio APIと戯れる</li>
 <li>HTML5 (JavaScript)</li>
 <li>せっかくなのでDJさんとイチャイチャしてみたかったんだ</li>
+</ul>
+</li>
+<li><p><a href="https://twitter.com/bilyakudan">henteko</a></p>
+
+<ul>
+<li>多人数でマークダウンを編集し合いたい</li>
+<li>js(PeerJS + hatena-httpjs + marked)</li>
+<li>マークダウンもはてな記法も…どっちも大好きだよっ！</li>
 </ul>
 </li>
 </ul>
