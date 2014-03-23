@@ -46,6 +46,11 @@ Live Coding de Night、そんな僕達の息吹を目で耳で、そして肌で
      - HTML5 (JavaScript)
      - せっかくなのでDJさんとイチャイチャしてみたかったんだ
 
+ - [henteko](https://twitter.com/bilyakudan)
+     - 多人数でマークダウンを編集し合いたい
+     - js(PeerJS + hatena-httpjs + marked)
+     - マークダウンもはてな記法も…どっちも大好きだよっ！
+
 <!-- ここにパフォーマンスの情報を書いていってください。
 
 フォーマットは
