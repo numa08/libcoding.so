@@ -51,6 +51,11 @@ Live Coding de Night、そんな僕達の息吹を目で耳で、そして肌で
      - js(PeerJS + hatena-httpjs + marked)
      - マークダウンもはてな記法も…どっちも大好きだよっ！
 
+ - [a3geek](https://twitter.com/a3geek)
+     - numa08さんのコンテンツを大切にしていくためのbotを錬成したかった
+     - Ruby
+     - RubyでTwitterのbotを作るだけの簡単なお仕事
+
 <!-- ここにパフォーマンスの情報を書いていってください。
 
 フォーマットは
