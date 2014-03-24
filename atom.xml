@@ -4,7 +4,7 @@
   <title><![CDATA[Live Coding de Night]]></title>
   <link href="http://libcoding.so/atom.xml" rel="self"/>
   <link href="http://libcoding.so/"/>
-  <updated>2014-03-24T00:23:36+09:00</updated>
+  <updated>2014-03-24T22:51:45+09:00</updated>
   <id>http://libcoding.so/</id>
   <author>
     <name><![CDATA[numa08]]></name>
@@ -80,6 +80,14 @@
 <li>多人数でマークダウンを編集し合いたい</li>
 <li>js(PeerJS + hatena-httpjs + marked)</li>
 <li>マークダウンもはてな記法も…どっちも大好きだよっ！</li>
+</ul>
+</li>
+<li><p><a href="https://twitter.com/a3geek">a3geek</a></p>
+
+<ul>
+<li>numa08さんのコンテンツを大切にしていくためのbotを錬成したかった</li>
+<li>Ruby</li>
+<li>RubyでTwitterのbotを作るだけの簡単なお仕事</li>
 </ul>
 </li>
 </ul>
