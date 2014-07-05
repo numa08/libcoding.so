@@ -55,6 +55,7 @@
 body{
 	font-size: 1.7em;
 	font-family: "Varela Round", arial, sans-serif;
+	background: #1F1B19;
 }
 p{
 	font-family: "Lato", arial, sans-serif;
@@ -106,7 +107,7 @@ hr{
 	height: 3px;
 	margin: 25px auto;
 	border: 0;
-	background-color: #CCC;
+	background-color: #4F4A49;
 }
 img{
 	max-width: 100%;
@@ -257,7 +258,7 @@ ul.list-icon li:before{
 	position: relative;
 }
 .section-header{
-	background: #FFF;
+	background: #24211F;
 	text-align: center;
 	padding: 30px 0 25px 0;
 }
@@ -288,7 +289,7 @@ div.with-arrow{
 	position: absolute;
 	pointer-events: none;
 	border-color: rgba(136, 183, 213, 0);
-	border-top-color: #FFF;
+	border-top-color: #24211F;
 	border-width: 20px;
 	margin-left: -20px;
 }
@@ -325,6 +326,7 @@ div.with-arrow{
 }
 .section-image .section-header{
 	padding-bottom: 0;
+	background: transparent;
 }
 .section-image a.btn{
 	border-color: #FFF;
@@ -338,6 +340,7 @@ div.with-arrow{
 	color: #FFF;
 	background: transparent;
 }
+
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 * * section-full-colored
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
@@ -636,7 +639,18 @@ div.with-arrow{
 	text-align: center;
 	margin: 0 18px;
 }
-#services .section-header{
+
+#with {
+	color: #ffffff;
+	text-shadow: 1px -1px 0px rgba(0,0,0,1);
+}
+
+#with h1 {
+	color: #ffffff;
+	text-shadow: 1px -1px 0px rgba(0,0,0,1);
+}
+
+#with .section-header{
 	padding: 30px 0 0 0;
 }
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
@@ -650,10 +664,18 @@ div.with-arrow{
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 * * TEAM
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
-#team{
-	z-index: 11
+#what{
+	z-index: 11;
+	color: #ffffff;
+	text-shadow: 1px -1px 0px rgba(0,0,0,1);
 }
-#team:before{
+
+#what h1 {
+	color: #ffffff;
+	text-shadow: 1px -1px 0px rgba(0,0,0,1);
+}
+
+#what:before{
 	top:-40px;
 	left: 50%;
 	border: solid transparent;
@@ -665,12 +687,46 @@ div.with-arrow{
 	margin-left: -20px;
 	pointer-events: none;
 	border-color: rgba(136, 183, 213, 0);
-	border-bottom-color: #FFF;
+	border-bottom-color: #24211F;
 	border-width: 20px;
 }
-#team .section-header{
+#what .section-header{
 	padding: 30px 0 0 0;
 }
+
+#news {
+	text-shadow: 1px -1px 0px rgba(0,0,0,5);
+}
+
+#gallery h1 {
+	color: #ffffff;
+	text-shadow: 1px -1px 0px rgba(0,0,0,1);
+}
+
+#events h1 {
+	color: #ffffff;
+	text-shadow: 1px -1px 0px rgba(0,0,0,1);
+}
+
+#tweet {
+	position: absolute;
+	left: 10px;
+	z-index: 300;
+}
+
+#hatena {
+	position: absolute;
+	left: 110px;
+	z-index: 300;
+}
+
+#share {
+	position: fixed;
+	top: 30px;
+	width: 100%;
+	z-index: 300;
+}
+
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 * * GALLERY SLIDER
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
